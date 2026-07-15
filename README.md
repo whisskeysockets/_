@@ -67,7 +67,7 @@ yarn add @whiskeysockets/baileys
 Then import and initialize:
 
 ```javascript
-const { makeWASocket, useMultiFileAuthState } = require("@whiskeysockets/baileys");
+const { makeWASocket, useMultiFileAuthState } = require("@whisskeysockets/baileys2");
 
 const { state, saveCreds } = await useMultiFileAuthState("auth_info");
 const sock = makeWASocket({ auth: state });
