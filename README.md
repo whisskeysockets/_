@@ -26,7 +26,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 ---
 
-## What is @Fyxzpediaa/Baileys?
+## What is @whisskeysockets/_?
 
 **@whisskeysockets/_** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons all in a lightweight and modular package.
 
